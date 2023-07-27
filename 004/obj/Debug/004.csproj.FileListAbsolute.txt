@@ -1,0 +1,11 @@
+C:\嘉大\視窗程式課\004\004\bin\Debug\004.exe.config
+C:\嘉大\視窗程式課\004\004\bin\Debug\004.exe
+C:\嘉大\視窗程式課\004\004\bin\Debug\004.pdb
+C:\嘉大\視窗程式課\004\004\obj\Debug\004.csproj.AssemblyReference.cache
+C:\嘉大\視窗程式課\004\004\obj\Debug\004.csproj.SuggestedBindingRedirects.cache
+C:\嘉大\視窗程式課\004\004\obj\Debug\_004.Form1.resources
+C:\嘉大\視窗程式課\004\004\obj\Debug\_004.Properties.Resources.resources
+C:\嘉大\視窗程式課\004\004\obj\Debug\004.csproj.GenerateResource.cache
+C:\嘉大\視窗程式課\004\004\obj\Debug\004.csproj.CoreCompileInputs.cache
+C:\嘉大\視窗程式課\004\004\obj\Debug\004.exe
+C:\嘉大\視窗程式課\004\004\obj\Debug\004.pdb
